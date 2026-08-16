@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-16T11:25:08.713Z",
+  "datasets": {
+    "busStops": {
+      "file": "bus-stops.json",
+      "bytes": 718753,
+      "sha256": "99ae6a5b4dc8874de8ac1e33d66314472b4d294f3f3d1274c40dcd7ed25b95d3",
+      "records": 5207
+    },
+    "mrtExits": {
+      "file": "mrt-exits.json",
+      "bytes": 73828,
+      "sha256": "b8cf1f852494f51edf92da6197ab5795011ffd70b781e49f3e37afd5c5d19343",
+      "records": 613
+    },
+    "railStations": {
+      "file": "rail-stations.json",
+      "bytes": 20978,
+      "sha256": "dd8e5b5d0cf6e4fee1c3e79f90e722dbde08c470f94434c33c09e2077e484fc1",
+      "records": 184
+    },
+    "busRoutes": {
+      "file": "bus-routes.json",
+      "bytes": 256051,
+      "sha256": "eecb1e19d4e1bc955eeb960629f06670e9011aa8f7548204076fbef9d1d59da6",
+      "records": 605
+    },
+    "transportNames": {
+      "file": "transport-names.json",
+      "bytes": 19254,
+      "sha256": "b806c6027a71f54d245f86025f3ba6017215c460ec22fdde0c0cad50d6ccbbd4",
+      "records": 347
+    },
+    "trainSchedule": {
+      "file": "train-schedule.json",
+      "bytes": 5789919,
+      "sha256": "ccf87f7fcf620cd887b2e03845d9fd7831289e801d2238c0582da3fd541e25d9",
+      "records": 10284
+    }
+  }
+}
