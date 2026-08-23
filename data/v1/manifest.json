@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-23T07:14:06.549Z",
+  "generatedAt": "2026-08-23T16:00:10.394Z",
   "datasets": {
     "busStops": {
       "file": "bus-stops.json",
@@ -35,7 +35,7 @@
     "trainSchedule": {
       "file": "train-schedule.json",
       "bytes": 5350029,
-      "sha256": "decccc60705d208816b597656b43d9f55036f18701c590d353f5c30da9a86766",
+      "sha256": "58ed32a93db7f09677ff329afbb81972e0139e6d695dd3175479abbd40d63d1c",
       "records": 10284
     }
   }
