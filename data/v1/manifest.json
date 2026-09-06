@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T16:00:08.208Z",
+  "generatedAt": "2026-09-06T16:00:07.609Z",
   "datasets": {
     "busStops": {
       "file": "bus-stops.json",
-      "bytes": 718570,
-      "sha256": "5667a56ed18089daa16062e65140893931ab7aefc29103d9295856ee06dad008",
-      "records": 5208
+      "bytes": 718292,
+      "sha256": "c5945e267eb292fe221d53121d1d78d262df7cf8eb74d4fa852ae6dec0df069e",
+      "records": 5207
     },
     "mrtExits": {
       "file": "mrt-exits.json",
@@ -35,7 +35,7 @@
     "trainSchedule": {
       "file": "train-schedule.json",
       "bytes": 5350106,
-      "sha256": "0719ec1b5283409571858e5647ba720c6d7d0f007e29445f2557dabcc78588bb",
+      "sha256": "0a03d74d15904a8d23a392df690a06e7f17461f585460f378003be724017876a",
       "records": 10284
     }
   }
